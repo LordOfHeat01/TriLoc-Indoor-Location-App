@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@android:color/background_dark">
+
+    <EditText
+        android:id="@+id/editObjectName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Object Name"
+        android:textColorHint="#999999"
+        android:minHeight="48dp"
+        android:textColor="#FFFFFF" />
+
+    <EditText
+        android:id="@+id/editHeight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Object Height (meters)"
+        android:textColorHint="#999999"
+        android:inputType="numberDecimal"
+        android:minHeight="48dp"
+        android:textColor="#FFFFFF" />
+
+    <EditText
+        android:id="@+id/editAngle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Angle from Front (°)"
+        android:textColorHint="#999999"
+        android:inputType="numberDecimal"
+        android:minHeight="48dp"
+        android:textColor="#FFFFFF" />
+</LinearLayout>

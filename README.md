@@ -29,11 +29,9 @@ Where:
 🧠 Focus Areas: Indoor localization, trigonometry-based calculation, user-centered app design
 
 📦 APK
-You can [download the APK here]( [View TriLoc App (Google Drive)](https://drive.google.com/file/d/
-1W4b8grmXVjvS2omKp2WYKhC0af5XDWKn/view?usp=sharing)
-).
+You can [download the APK here] https://drive.google.com/file/d/1W4b8grmXVjvS2omKp2WYKhC0af5XDWKn/view
 📜 License
-This project is for academic/research use only under internship guidance at ADRDE.
+This project is for academic/research use only under in ternship guidance at ADRDE.
 
 
 
